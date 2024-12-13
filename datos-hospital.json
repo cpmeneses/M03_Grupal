@@ -1,0 +1,27 @@
+{
+    "doctores":
+    [
+      {
+          "nombre": "Sonia Maria de La Rosa",
+          "especialidad": "Cardiología",
+          "experiencia": 5
+      },
+      {
+          "nombre": "Benito Olivares",
+          "especialidad": "Pediatría",
+          "experiencia": 5
+      }
+    ],
+    "servicios":
+    [
+      {
+          "nombre": "Consulta General",
+          "costo": 50000
+      },
+      {
+          "nombre": "Examen Cardiológico",
+          "costo": 80000
+      }
+    ],
+    "citas":[]
+}
